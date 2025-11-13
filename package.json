@@ -21,7 +21,7 @@
     "cookie": "^1.0.2",
     "express": "^5.1.0",
     "fast-json-stringify": "^6.0.1",
-    "inquirer": "^8.2.6",
+    "inquirer": "^8.2.7",
     "ip": "^2.0.1",
     "juicer": "^0.6.15",
     "nedb": "^1.8.0",
