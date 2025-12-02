@@ -19,7 +19,7 @@
     "commander": "^14.0.0",
     "compression": "^1.8.0",
     "cookie": "^1.0.2",
-    "express": "^5.1.0",
+    "express": "^5.2.0",
     "fast-json-stringify": "^6.0.1",
     "inquirer": "^8.2.6",
     "ip": "^2.0.1",
